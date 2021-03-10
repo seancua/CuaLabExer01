@@ -1,0 +1,17 @@
+.style1 {
+	border: 20px solid #393E5E; 
+	padding: 30px; 
+	margin-top: 10px; 
+	margin-right: 220px; 
+	margin-left: 220px
+}
+
+#bgcolor {
+	background-color: #ED5C5E;
+}
+
+#font {
+	text-align: center;
+	color: #F8D643;
+	font-family: Consolas;
+}
